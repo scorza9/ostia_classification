@@ -1,0 +1,3596 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "RAS",
+            "coordinateUnits": "mm",
+            "locked": true,
+            "fixedNumberOfControlPoints": true,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 136,
+            "controlPoints": [
+                {
+                    "id": "0",
+                    "label": "2924",
+                    "description": "LEFT OSTIUM",
+                    "associatedNodeID": "",
+                    "position": [
+                        220.4165496826172,
+                        241.38864135742188,
+                        -93.45762634277344
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "1",
+                    "label": "841",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        220.69338440403078,
+                        241.65173647953503,
+                        -93.06516436588039
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "842",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        220.97021912544434,
+                        241.9148316016482,
+                        -92.67270238898735
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "843",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        221.24705384685794,
+                        242.17792672376135,
+                        -92.28024041209432
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "844",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        221.52430710701634,
+                        242.44299271434903,
+                        -91.89001552120418
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "845",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        221.82864446541123,
+                        242.6677775042817,
+                        -91.49688617484553
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "6",
+                    "label": "846",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        222.21250895557873,
+                        242.89318248484014,
+                        -91.18055068115201
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "7",
+                    "label": "847",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        222.64785867826757,
+                        243.05084405692844,
+                        -90.88886042355642
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "8",
+                    "label": "848",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        223.10070456661074,
+                        243.19832816417275,
+                        -90.61894795712062
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "9",
+                    "label": "849",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        223.56664696063464,
+                        243.32473429013402,
+                        -90.36117210643634
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "10",
+                    "label": "850",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        224.04383163818832,
+                        243.42297057752117,
+                        -90.11269108846113
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "11",
+                    "label": "851",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        224.55161769270384,
+                        243.46615387635038,
+                        -89.91430328383099
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "12",
+                    "label": "852",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        225.07749873175885,
+                        243.46984053790226,
+                        -89.7629517315255
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "13",
+                    "label": "853",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        225.61195026969096,
+                        243.47127691896478,
+                        -89.64547252050427
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "14",
+                    "label": "854",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        226.15312340078498,
+                        243.48672831084187,
+                        -89.56456796582559
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "15",
+                    "label": "855",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        226.69633743688277,
+                        243.49595340901794,
+                        -89.49895419233215
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "16",
+                    "label": "856",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        227.24260533738405,
+                        243.49313978386192,
+                        -89.4699171639377
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "17",
+                    "label": "3018",
+                    "description": "LEFT INTERSECTION",
+                    "associatedNodeID": "",
+                    "position": [
+                        227.78553771972656,
+                        243.46453857421875,
+                        -89.40711212158203
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "18",
+                    "label": "1152",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        228.2920536045153,
+                        243.42937706485796,
+                        -89.33765518861738
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "19",
+                    "label": "1153",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        228.79917648551677,
+                        243.37902277376148,
+                        -89.2823888415602
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "20",
+                    "label": "1154",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        229.29416619241456,
+                        243.30803314474903,
+                        -89.17411519514066
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "21",
+                    "label": "1155",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        229.77576998166288,
+                        243.22612965947522,
+                        -89.01875312267252
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "22",
+                    "label": "1156",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        230.23284233017836,
+                        243.10590868155026,
+                        -88.82315272295051
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "23",
+                    "label": "1157",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        230.6578103563378,
+                        242.98229019705403,
+                        -88.56570589184146
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "24",
+                    "label": "1158",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        231.07088032898315,
+                        242.79716650795282,
+                        -88.33142675243606
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "25",
+                    "label": "1159",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        231.48050808929278,
+                        242.52465477946717,
+                        -88.19044042555947
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "26",
+                    "label": "1160",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        231.91033079323824,
+                        242.26195596991928,
+                        -88.09645087922236
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "27",
+                    "label": "1161",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        232.3587670744298,
+                        242.03334848930805,
+                        -88.0001312236429
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "28",
+                    "label": "1162",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        232.8316657107709,
+                        241.86058850180632,
+                        -87.9105742818226
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "29",
+                    "label": "1163",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        233.3096501710957,
+                        241.67567109154544,
+                        -87.89834623683906
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "30",
+                    "label": "1164",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        233.79729935038532,
+                        241.52689253113897,
+                        -87.89041651854019
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "31",
+                    "label": "1165",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        234.2911388073966,
+                        241.39103777362408,
+                        -87.89574087983526
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "32",
+                    "label": "1166",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        234.7713336299607,
+                        241.21640342971745,
+                        -87.93454325734281
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "33",
+                    "label": "1167",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        235.2506982493307,
+                        241.03480597388108,
+                        -87.93569062928205
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "34",
+                    "label": "1168",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        235.67351440638492,
+                        240.7506849088402,
+                        -87.98433693647782
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "35",
+                    "label": "1169",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        236.1132379646995,
+                        240.5094286804212,
+                        -88.0871645184756
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "36",
+                    "label": "1170",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        236.57103547291698,
+                        240.28419561399883,
+                        -88.13253541275792
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "37",
+                    "label": "1171",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        237.0265017696018,
+                        240.05380544229044,
+                        -88.178014385371
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "38",
+                    "label": "1172",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        237.48867038848178,
+                        239.8456688226754,
+                        -88.25583458041707
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "39",
+                    "label": "1173",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        237.93643336794275,
+                        239.64114693148022,
+                        -88.39394214012178
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "40",
+                    "label": "1174",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        238.34262996063708,
+                        239.40812681414644,
+                        -88.60228193342427
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "41",
+                    "label": "1175",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        238.753834974169,
+                        239.1733901505119,
+                        -88.79751346388417
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "42",
+                    "label": "1176",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        239.16438137656533,
+                        238.9346533179854,
+                        -88.98970813810216
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "43",
+                    "label": "1177",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        239.58213584709858,
+                        238.70286889705497,
+                        -89.17558294298806
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "44",
+                    "label": "1178",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        240.01232709348886,
+                        238.5141291067626,
+                        -89.37985901611134
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "45",
+                    "label": "1179",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        240.44884314801726,
+                        238.38177570151444,
+                        -89.6139236533335
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "46",
+                    "label": "1180",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        240.8867520712782,
+                        238.2582317121102,
+                        -89.84994169092529
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "47",
+                    "label": "1181",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        241.32987846099178,
+                        238.09121385741264,
+                        -90.04461267044923
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "48",
+                    "label": "1182",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        241.75212687772122,
+                        237.90168033969738,
+                        -90.26511531674727
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "49",
+                    "label": "1183",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        242.1785625774925,
+                        237.73745611396262,
+                        -90.49752907838858
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "50",
+                    "label": "1184",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        242.60725042667138,
+                        237.57395902459493,
+                        -90.72665099882303
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "51",
+                    "label": "1185",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        243.03945018795395,
+                        237.4033917836935,
+                        -90.9427725480912
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "52",
+                    "label": "1186",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        243.46349483509337,
+                        237.21173953987707,
+                        -91.15741993611117
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "53",
+                    "label": "1187",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        243.88983251680713,
+                        237.0382024390169,
+                        -91.3833857841328
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "54",
+                    "label": "1188",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        244.31054751917011,
+                        236.85138677335698,
+                        -91.60828577773974
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "55",
+                    "label": "1189",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        244.7144838199528,
+                        236.61611064947715,
+                        -91.81808710968944
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "56",
+                    "label": "1190",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        245.1112636244124,
+                        236.36272106802215,
+                        -92.02052530491389
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "57",
+                    "label": "1191",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        245.5123385373396,
+                        236.17282893399107,
+                        -92.27702437387647
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "58",
+                    "label": "1192",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        245.9172670491633,
+                        235.99515175638155,
+                        -92.53606610415491
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "59",
+                    "label": "1193",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        246.34277902997005,
+                        235.8184850273553,
+                        -92.76095880316952
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "60",
+                    "label": "1194",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        246.7795543256203,
+                        235.62621507269336,
+                        -92.94732457797119
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "61",
+                    "label": "1195",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        247.19871053126542,
+                        235.41234748022535,
+                        -93.14999945408074
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "62",
+                    "label": "1196",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        247.60800928905095,
+                        235.18555218344974,
+                        -93.35922960663801
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "63",
+                    "label": "1197",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        248.0252011608532,
+                        234.93947608547768,
+                        -93.52774190140276
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "64",
+                    "label": "1198",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        248.42782439543925,
+                        234.71508896871006,
+                        -93.7486617490659
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "65",
+                    "label": "1199",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        248.84143534100198,
+                        234.50802890824014,
+                        -93.96779143241976
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "66",
+                    "label": "1200",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        249.28131395228834,
+                        234.2999704526475,
+                        -94.1278922521906
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "67",
+                    "label": "1201",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        249.73110497003685,
+                        234.10342343270497,
+                        -94.27493599183654
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "68",
+                    "label": "1202",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        250.17961227430717,
+                        233.91338715657255,
+                        -94.43462903052765
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "69",
+                    "label": "1203",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        250.6015561625269,
+                        233.70609955306057,
+                        -94.63690543420972
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "70",
+                    "label": "1204",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        251.00889241689904,
+                        233.475886894215,
+                        -94.84651151512384
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "71",
+                    "label": "1205",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        251.37852611272282,
+                        233.2256436563002,
+                        -95.09764501264137
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "72",
+                    "label": "1206",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        251.77566792610833,
+                        232.9917772487531,
+                        -95.32013520719181
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "73",
+                    "label": "1207",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        252.194454823596,
+                        232.75421289139234,
+                        -95.49624290409409
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "74",
+                    "label": "1208",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        252.60888672006422,
+                        232.54201206460328,
+                        -95.70992111330729
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "75",
+                    "label": "1209",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        252.99502509331,
+                        232.27966403377124,
+                        -95.9199384504859
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "76",
+                    "label": "1210",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        253.3861825791184,
+                        232.04123329244067,
+                        -96.14954575942865
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "77",
+                    "label": "1211",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        253.77132678050475,
+                        231.79547658019513,
+                        -96.38173093275962
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "78",
+                    "label": "1212",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        254.13529563642166,
+                        231.53493600565798,
+                        -96.63089144578035
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "79",
+                    "label": "1213",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        254.50717200928503,
+                        231.2903974101653,
+                        -96.88509938985588
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "80",
+                    "label": "1214",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        254.8869543783118,
+                        231.05697120050382,
+                        -97.13620328510788
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "81",
+                    "label": "1215",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        255.25338382947888,
+                        230.7485394779637,
+                        -97.31755439031858
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "82",
+                    "label": "1216",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        255.60298265867243,
+                        230.4254491881479,
+                        -97.50819223935689
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "83",
+                    "label": "1217",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        255.98276989409587,
+                        230.1275456620106,
+                        -97.6810110987221
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "84",
+                    "label": "1218",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        256.3487611729145,
+                        229.8186505320153,
+                        -97.86276125773402
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "85",
+                    "label": "1219",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        256.69230736036843,
+                        229.49387737737655,
+                        -98.05863839917536
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "86",
+                    "label": "1220",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        257.0341266419865,
+                        229.19141885242206,
+                        -98.29033281811937
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "87",
+                    "label": "1221",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        257.3983576452781,
+                        228.92842978124196,
+                        -98.53723887826693
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "88",
+                    "label": "1222",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        257.7799055152278,
+                        228.684538307689,
+                        -98.77662895455656
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "89",
+                    "label": "1223",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        258.1441850592192,
+                        228.42811717751582,
+                        -99.03032551381487
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "90",
+                    "label": "1224",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        258.49227223011144,
+                        228.16113313545387,
+                        -99.2927783536323
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "91",
+                    "label": "1225",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        258.8113977444049,
+                        227.84758746817192,
+                        -99.54250211611968
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "92",
+                    "label": "1226",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        259.13903087009464,
+                        227.52426434179597,
+                        -99.7675077301855
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "93",
+                    "label": "5620",
+                    "description": "LEFT INTERSECTION",
+                    "associatedNodeID": "",
+                    "position": [
+                        259.5130310058594,
+                        227.2482452392578,
+                        -99.98001098632812
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "94",
+                    "label": "1227",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        259.9354546443935,
+                        227.03087008252336,
+                        -100.17292268714358
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "95",
+                    "label": "1228",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        260.39718014840116,
+                        226.88441356098838,
+                        -100.34204533889678
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "96",
+                    "label": "1229",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        260.87557292541396,
+                        226.89426168703076,
+                        -100.52477427153534
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "97",
+                    "label": "1230",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        261.3439983794146,
+                        227.02869649727953,
+                        -100.6854843821696
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "98",
+                    "label": "1231",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        261.80953110544857,
+                        227.17197020668254,
+                        -100.84794246316591
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "99",
+                    "label": "1232",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        262.273311747607,
+                        227.31542880486597,
+                        -101.0191935021889
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "100",
+                    "label": "1233",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        262.764920034158,
+                        227.4067522491103,
+                        -101.14024213489552
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "101",
+                    "label": "1234",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        263.22108427908927,
+                        227.57715393801178,
+                        -101.30350095884094
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "102",
+                    "label": "1235",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        263.6681948891142,
+                        227.76244888016726,
+                        -101.47765055221426
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "103",
+                    "label": "1236",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        264.0896210932408,
+                        227.96898710436707,
+                        -101.68439510498405
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "104",
+                    "label": "1237",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        264.5594780821163,
+                        228.11682906729956,
+                        -101.82963156269977
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "105",
+                    "label": "1238",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        265.03360792152705,
+                        228.2712615127301,
+                        -101.95218805281303
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "106",
+                    "label": "1239",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        265.4947460354672,
+                        228.4618871362065,
+                        -102.07505119799946
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "107",
+                    "label": "1240",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        265.94606261012547,
+                        228.66239228435293,
+                        -102.21685910628818
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "108",
+                    "label": "1241",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        266.41095603602065,
+                        228.7825538754274,
+                        -102.39728354321998
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "109",
+                    "label": "1242",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        266.8826861751808,
+                        228.87920333980875,
+                        -102.57675158846574
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "110",
+                    "label": "1243",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        267.37168030325495,
+                        228.97685053252604,
+                        -102.70103471814318
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "111",
+                    "label": "1244",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        267.84783744877075,
+                        229.00854108727637,
+                        -102.88892578249092
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "112",
+                    "label": "1245",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        268.2949961726915,
+                        229.04993121480214,
+                        -103.13310638924129
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "113",
+                    "label": "1246",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        268.70056118773425,
+                        229.14413329237965,
+                        -103.42498798155012
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "114",
+                    "label": "1247",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        269.08654662303644,
+                        229.30991227651097,
+                        -103.71579717481508
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "115",
+                    "label": "1248",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        269.5022643940526,
+                        229.42273261960966,
+                        -103.98783449329996
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "116",
+                    "label": "1249",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        269.95072811586004,
+                        229.38165428533134,
+                        -104.23314358310903
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "117",
+                    "label": "1250",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        270.3074249577622,
+                        229.24845080925488,
+                        -104.57533844414304
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "118",
+                    "label": "1251",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        270.6669806638285,
+                        229.05185167277912,
+                        -104.88277633465033
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "119",
+                    "label": "1252",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        271.00025840174084,
+                        228.8219475314345,
+                        -105.19768251620397
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "120",
+                    "label": "1253",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        271.30972884605427,
+                        228.57679868883346,
+                        -105.5192749909344
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "121",
+                    "label": "1254",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        271.60436464974657,
+                        228.36723952927431,
+                        -105.8810770447855
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "122",
+                    "label": "1255",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        271.9148173249105,
+                        228.12476249575494,
+                        -106.20386282526194
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "123",
+                    "label": "1256",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        272.18997811276074,
+                        227.80539039933146,
+                        -106.49472592430924
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "124",
+                    "label": "1257",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        272.4466826980696,
+                        227.42440046633428,
+                        -106.71661531094634
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "125",
+                    "label": "1258",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        272.6678443030214,
+                        227.02529084495157,
+                        -106.95280956125129
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "126",
+                    "label": "1259",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        272.84203880614365,
+                        226.58014974300974,
+                        -107.1165802887048
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "127",
+                    "label": "1260",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.00774155492934,
+                        226.1068312524237,
+                        -107.22288275714354
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "128",
+                    "label": "1261",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.21895694910415,
+                        225.6740054190459,
+                        -107.39132301138403
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "129",
+                    "label": "1262",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.4340875228187,
+                        225.26495812894584,
+                        -107.6112445182026
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "130",
+                    "label": "1263",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.57025566604426,
+                        224.82032192487642,
+                        -107.82329014183676
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "131",
+                    "label": "1264",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.65047807639985,
+                        224.3392030987479,
+                        -107.97796473269226
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "132",
+                    "label": "1265",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.7181184509032,
+                        223.85674502993228,
+                        -108.12197566991769
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "133",
+                    "label": "1266",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.8250887982158,
+                        223.3937418131489,
+                        -108.31345973947975
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "134",
+                    "label": "1267",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        273.9672007304628,
+                        222.95288158033858,
+                        -108.53065590655335
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "135",
+                    "label": "1268",
+                    "description": "LEFT SEGMENT",
+                    "associatedNodeID": "",
+                    "position": [
+                        274.0401234578792,
+                        222.52641925009334,
+                        -108.79841007815978
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "136",
+                    "label": "5913",
+                    "description": "LEFT ENDPOINT",
+                    "associatedNodeID": "",
+                    "position": [
+                        274.2112121582031,
+                        222.06509399414062,
+                        -108.79074096679688
+                    ],
+                    "orientation": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "selected": false,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": false,
+                    "units": "mm",
+                    "printFormat": "%-#4.4g%s"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ]
+        }
+    ]
+}
