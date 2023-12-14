@@ -1,7 +1,7 @@
 <h1 align="center"> Coronary Ostium Binary Classification </h1>
 
 <p align="center">
-  <img src="https://github.com/scorza9/ostia_classification.git/main/animated_gif.gif" alt="animated" />
+  <img src="[https://github.com/scorza9/ostia_classification.git/main/animated_gif.gif](https://github.com/scorza9/ostia_classification/blob/main/animated_gif.gif)" alt="animated" />
 </p>
 
 ## Project Goal
