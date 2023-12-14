@@ -5,9 +5,6 @@ Using deep learning on CCTA images, our aim is to solve a binary classification 
 
 This project is part of the Neuroengineering course @ Politecnico di Milano
 
-![Uploading This work aims to develop a Convolutional Neural Network (CNN) fully automatic framework working on CCTA images that will be able to map the coronary artery tree. the coronary ostium, which is the.gif…]()
-
-
 
 ### Dataset
 The dataset has been created by us, starting from CCTA 3D images. 
