@@ -19,7 +19,7 @@ Folders are organized as follows:
 
 ## Outcome
 
-A brief explanation of the project and its results is available at: 
+A brief explanation of the project and its results is available at: https://youtu.be/b5fDu6zcUhM
 
 ***
 
